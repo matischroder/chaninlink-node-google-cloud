@@ -1,0 +1,9 @@
+#optionally override default
+#cluster_name       = "chainlink"
+#gcp_region         = "europe-west1"
+#gcp_zone           = "europe-west1-c"
+#postgres_username  = "admin"
+
+#required: project_name - filled through instructions
+node_username = "REPLACE_ME_WITH_USER_EMAIL"
+project_name= "REPLACE_ME_WITH_PROJECT_ID"
